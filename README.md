@@ -27,16 +27,6 @@ Since then I've been active in open source across the Kubernetes docs, OpenTelem
 
 ---
 
-## What I work with
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
----
-
 ## Find me
 
 [![Website](https://img.shields.io/badge/juliafmorgado.com-000000?style=flat-square&logo=safari&logoColor=white)](https://juliafmorgado.com)
